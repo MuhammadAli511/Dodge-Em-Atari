@@ -15,6 +15,12 @@
   <a href="#contact">Contact</a>
 </p>
 
+
+
+https://user-images.githubusercontent.com/83888735/232159073-1ef4c716-fa7e-4cfc-8c1e-09b7ac57d156.mp4
+
+
+
 # Introduction
 Welcome to my version of Dodge Em game! This classic arcade-style game is my personal take on the popular Atari game of the same name. I created this game using C++ programming language, as well as the Glut and Glew libraries for graphics and window management.
 
