@@ -16,7 +16,9 @@
 </p>
 
 
-![DodgeEm](https://user-images.githubusercontent.com/83888735/232159361-bd3bd271-609f-4148-b183-6a15c45d47d9.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/83888735/232159361-bd3bd271-609f-4148-b183-6a15c45d47d9.gif">
+</p>
 
 
 # Introduction
