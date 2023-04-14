@@ -16,9 +16,7 @@
 </p>
 
 
-
-https://user-images.githubusercontent.com/83888735/232159073-1ef4c716-fa7e-4cfc-8c1e-09b7ac57d156.mp4
-
+![DodgeEm](https://user-images.githubusercontent.com/83888735/232159361-bd3bd271-609f-4148-b183-6a15c45d47d9.gif)
 
 
 # Introduction
